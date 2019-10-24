@@ -1,0 +1,20 @@
+body
+{
+    background-color: cornflowerblue;
+    font-size: 24px;
+    color: aliceblue;
+}
+div
+{
+    border: solid 2px 2px;
+}
+span
+{
+    font-size: 16px;
+}
+img
+{
+    width: 40%;
+    padding-bottom: 6px;
+    padding-top: 6px;
+}
